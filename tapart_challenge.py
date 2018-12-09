@@ -1005,7 +1005,6 @@ d_width = []
 d_height = []
 
 raw_dimensions = raw_dimensions.split("\n")  # split at newline
-print(raw_dimensions)
 
 # Make each combination of dimensions a list in a list
 temp_raw = []
